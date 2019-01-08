@@ -24,14 +24,14 @@ main {
   margin: 0 auto;
 }
 
-/*fieldset {
+fieldset {
   margin: 1em 0;
   border: 1px solid #ddd;
   border-radius: 2px;
   background: #eee;
 }
 
-legend {
+/*legend {
   font-family: sans-serif;
   font-size: 80%;
   color: #fff;
