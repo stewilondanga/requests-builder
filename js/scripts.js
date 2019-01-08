@@ -1,14 +1,14 @@
-/*var navigate = (function() {
-	$('.dd').toggle();
-	$('.dd_btn').click(function() {
-		var dataName = $(this).attr('data-name');
-		$('.dd').hide();
-		$('.' + dataName).toggle();
-	});
+var navigate = (function() {
+  $('.dd').toggle();
+  $('.dd_btn').click(function() {
+    var dataName = $(this).attr('data-name');
+    $('.dd').hide();
+    $('.' + dataName).toggle();
+  });
 })();
 
 // helper function from MDN
-var parseHeaders = function parseHeaders(xhr) {
+/*var parseHeaders = function parseHeaders(xhr) {
   var headers = xhr.getAllResponseHeaders().trim().split(/[\r\n]+/);
   var headerMap = {};
   headers.forEach(function (line) {
