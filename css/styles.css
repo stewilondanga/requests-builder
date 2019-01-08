@@ -31,7 +31,7 @@ fieldset {
   background: #eee;
 }
 
-/*legend {
+legend {
   font-family: sans-serif;
   font-size: 80%;
   color: #fff;
@@ -41,7 +41,7 @@ fieldset {
   border-radius: 8px;
 }
 
-@media (max-width: 500px) {
+/*@media (max-width: 500px) {
   fieldset label {
     display: block;
   }
