@@ -62,11 +62,11 @@ fieldset textarea {
   box-sizing: border-box;
 }
 
-/*fieldset > section, fieldset > table {
+fieldset>section, fieldset>table {
   margin: .5em 0;
 }
 
-fieldset > table {
+/*fieldset > table {
   width: 100%;
   border-style: collaped;
   border: 1px solid #ccc;
