@@ -19,13 +19,12 @@ body {
   height: 1.5em;
 }
 
-/*
 main {
   max-width: 1000px;
   margin: 0 auto;
 }
 
-fieldset {
+/*fieldset {
   margin: 1em 0;
   border: 1px solid #ddd;
   border-radius: 2px;
