@@ -77,11 +77,11 @@ fieldset table td input {
   box-sizing: border-box;
 }
 
-/*fieldset > ol {
+fieldset>ol {
   padding: 0 1em;
 }
 
-fieldset > ol > li {
+/*fieldset > ol > li {
   margin: .5em 0;
 }
 
