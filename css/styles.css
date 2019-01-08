@@ -41,7 +41,7 @@ legend {
   border-radius: 8px;
 }
 
-/*@media (max-width: 500px) {
+@media (max-width: 500px) {
   fieldset label {
     display: block;
   }
@@ -52,12 +52,12 @@ legend {
     box-sizing: border-box;
   }
 
-  input + button, input + input, select + input {
+  input+button, input+input, select+input {
     margin: 0.5em 0 0 0;
   }
 }
 
-fieldset textarea {
+/*fieldset textarea {
   width: 100%;
   box-sizing: border-box;
 }
