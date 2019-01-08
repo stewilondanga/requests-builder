@@ -8,10 +8,10 @@ var navigate = (function() {
 })();
 
 // helper function from MDN
-/*var parseHeaders = function parseHeaders(xhr) {
+var parseHeaders = function parseHeaders(xhr) {
   var headers = xhr.getAllResponseHeaders().trim().split(/[\r\n]+/);
   var headerMap = {};
-  headers.forEach(function (line) {
+  headers.forEach(function(line) {
     var parts = line.split(': ');
     var header = parts.shift().toLowerCase();
     var value = parts.join(': ');
@@ -20,7 +20,7 @@ var navigate = (function() {
   return headerMap;
 };
 
-var app = new Vue({
+/*var app = new Vue({
   el: '#app',
   data: {
     method: 'GET',
