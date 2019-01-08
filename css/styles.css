@@ -72,12 +72,12 @@ fieldset>table {
   border: 1px solid #ccc;
 }
 
-/*fieldset table td input {
+fieldset table td input {
   width: 100%;
   box-sizing: border-box;
 }
 
-fieldset > ol {
+/*fieldset > ol {
   padding: 0 1em;
 }
 
