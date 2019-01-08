@@ -81,11 +81,11 @@ fieldset>ol {
   padding: 0 1em;
 }
 
-/*fieldset > ol > li {
+fieldset>ol>li {
   margin: .5em 0;
 }
 
-fieldset.response legend {
+/*fieldset.response legend {
   background: #f72;
 }
 
