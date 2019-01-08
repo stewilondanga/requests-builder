@@ -85,11 +85,11 @@ fieldset>ol>li {
   margin: .5em 0;
 }
 
-/*fieldset.response legend {
+fieldset.response legend {
   background: #f72;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
